@@ -6,7 +6,7 @@ A professional, full-stack chat application featuring a **Spring Boot** backend 
 ##  Project Structure
 
 * **`chat-backend/`**: The Java Spring Boot application handling security, database, and API logic.
-* **`chat-frontend/`**: The web interface built with HTML5, CSS3, and Vanilla JavaScript.
+* **`chat-frontend/`**: The web interface built with HTML5, CSS3, and  JavaScript.
 
 
 ##  Features
@@ -14,7 +14,7 @@ A professional, full-stack chat application featuring a **Spring Boot** backend 
 * **Secure Authentication**: Sign up and Login with password encryption using **BCrypt**.
 * **JWT Authorization**: Stateless security using **JSON Web Tokens** for protected API access.
 * **Data Privacy**: Implementation of **DTOs (Data Transfer Objects)** to ensure sensitive information (like passwords) is never leaked in API responses.
-* **WhatsApp UI**: A clean, responsive sidebar-and-chat interface.
+* **ChatApp UI**: A clean, responsive sidebar-and-chat interface.
 * **Database Persistence**: Fully integrated with **MySQL** via Spring Data JPA.
 
 
@@ -27,7 +27,7 @@ A professional, full-stack chat application featuring a **Spring Boot** backend 
 * MySQL Database
 
 **Frontend:**
-* HTML5 & CSS3 (Custom WhatsApp Theme)
+* HTML5 & CSS3 (Custom Chat Theme)
 * JavaScript (Fetch API)
 
 
